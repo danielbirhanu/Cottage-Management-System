@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 /**
  * FileHandler class for reading and writing cottage data
- * @author Student
+ * @author Abel
  * @version 1.0
  */
 public class FileHandler {

@@ -1,6 +1,6 @@
 /**
  * Cottage class representing a cottage property
- * @author Student
+ * @author Abel
  * @version 1.0
  */
 public class Cottage {

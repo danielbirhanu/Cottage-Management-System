@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Main Cottage Manager application
  * Implements console-based cottage booking system
- * @author Student
+ * @author Abel
  * @version 1.0
  */
 public class CottageManager {
